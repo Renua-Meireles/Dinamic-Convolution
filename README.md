@@ -1,4 +1,4 @@
-# Dynamic-Convolution
+# RealTime-Convolution
 A tool for **visualization and customization of kernels** for **image convolution** by **hand gesture control**, applied on **live video capture**.
 
 This application was developed during the **Digital Signal Processing** discipline, at **Federal University of Pará**.
